@@ -21,7 +21,7 @@ import java.util.List;
 
 public class InstaDotView extends View {
 
-    private static final int MIN_VISIBLE_DOT_COUNT = 6;
+    private static final int MIN_VISIBLE_DOT_COUNT = 5;
     private static final int DEFAULT_VISIBLE_DOTS_COUNT = MIN_VISIBLE_DOT_COUNT;
 
     private int activeDotSize;
